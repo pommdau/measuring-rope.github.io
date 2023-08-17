@@ -8,18 +8,18 @@
 - Since no part of the screen other than the pointer of the two points takes away from the mouse operation, you can measure the distance without disturbing the operation of other applications.
 - In addition, the rope connecting the two points is elastic, providing an enjoyable operation experience. (Elasticity can also be eliminated from the settings.)
 
-<img width="400" alt="image" src="https://i.imgur.com/AYSeH4q.png">
+<img width="800" alt="image" src="https://i.imgur.com/AYSeH4q.png">
 
 https://github.com/pommdau/measuring-rope.github.io/assets/29433103/4cb3a378-91d6-4035-bf92-08fb25ba5729
 
-## Main Functions
+## Main Features
 
-### Basic functions
+### Basic features
 - Measure the distance between two points on the screen
 - Measure between two points vertically or horizontally (press Shift key)
 - You can choose units such as pixels, centimeters, millimeters, inches, etc.
 
-### Features of the Pro version (buy-out)
+### Features of the Pro version (outright purchase)
 - Change the look and feel by selecting from various themes
 - Select pointer style
 - You can select the size of the pointer
